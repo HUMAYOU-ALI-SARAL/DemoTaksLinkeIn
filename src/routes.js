@@ -27,7 +27,7 @@ import RTLPage from "./views/RTLPage/RTLPage.js";
 
 const dashboardRoutes = [
     {
-        path: "/tokenlock",
+        path: "/token&liquidity",
         name: "Token & Liquidity Lock",
         rtlName: "التطور للاحترافية",
         icon: LockIcon,
